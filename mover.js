@@ -8,7 +8,7 @@
                     var a = $(this);
                     var b = a.data("move-0");
                     $(a).detach();
-                    $("." + b).append($(a));
+                    $("#" + b).append($(a));
                 });
             }
         }
@@ -21,7 +21,7 @@
                     var a = $(this);
                     var b= a.data("move-480");
                     $(a).detach();
-                    $("."+b).append($(a));
+                    $("#"+b).append($(a));
                 });
             }
         }
@@ -35,7 +35,7 @@
                     var t = $(this);
                     var l = t.data("move-786");
                     $(t).detach();
-                    $("."+l).append($(t));
+                    $("#"+l).append($(t));
                 });                
             }
         }
@@ -47,7 +47,7 @@
                     var t = $(this);
                     var l = t.data("move-1024");
                     $(t).detach();
-                    $("." + l).append($(t));
+                    $("#" + l).append($(t));
                 });
             }
         }

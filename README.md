@@ -14,7 +14,9 @@ Add mover.js     <script src="Scripts/mover.js"></script>
 
 Add the class "to-move" to all elements you want moved
 
-Add data tag 'data-move-[inser min screen width here]'="[enter div placeholder class here]" for each breakpoint needed. (example: data-move-786="content1" will move this element to element 'content1' when the screen / device width is greater than 786)
+Add data tag 'data-move-[inser min screen width here]'="[enter div placeholder class here]" for each breakpoint needed. 
+
+(example: data-move-786="content1" will move this element to element 'content1' when the screen / device width is greater than 786)
 
 
 DONE!

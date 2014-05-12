@@ -1,3 +1,9 @@
+/*!
+ * mover.js v0 - Easily move elements on breakpoints with a data tag
+ * Copyright (c) 2014 Nick Benedict -https://github.com/NickBenedict/mover.js
+ * License: MIT (http://www.opensource.org/licenses/mit-license.php)
+ */
+
 ﻿$(document).ready(
  
     function () {
